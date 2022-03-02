@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.15.1](https://www.github.com/uladkasach/best-practices-typescript/compare/v0.15.0...v0.15.1) (2022-03-02)
+
+
+### Bug Fixes
+
+* **tf:** bump tf version to 3.74.3 ([9950081](https://www.github.com/uladkasach/best-practices-typescript/commit/9950081b241e119c8adab93c2eb9cc85ab11485c))
+
 ## [0.15.0](https://www.github.com/uladkasach/best-practices-typescript/compare/v0.14.2...v0.15.0) (2022-03-01)
 
 
